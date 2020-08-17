@@ -13,7 +13,7 @@ I am an avid Data Specialist with 4 to 5 years of professional experience as a D
 
 ## ⚡ Tech Stack
 *Python and Open-source is my go-to but I have an affinity for all Cloud Native Solutions.*
-
+<p>
 <img alt="python3" width=50px style="margin-right:1rem" src="https://simpleicons.org/icons/python.svg">
 
 <img alt="apache" width=50px style="margin-right:1rem" src="https://simpleicons.org/icons/apache.svg">
@@ -35,6 +35,7 @@ I am an avid Data Specialist with 4 to 5 years of professional experience as a D
 <img alt="linux" width=50px style="margin-right:1rem" src="https://simpleicons.org/icons/linux.svg">
 
 <img alt="powerbi" width=50px style="margin-right:1rem" src="https://simpleicons.org/icons/powerbi.svg">
+</p>
 
 <br/>
 
