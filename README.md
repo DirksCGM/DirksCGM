@@ -45,8 +45,6 @@ I am now an avid Data Specialist with 4 to 5 years of professional experience as
 
 ## 📫 How to reach me
 
-<p><img alt="gmail" width=20px style="margin-right:1rem" src="https://simpleicons.org/icons/gmail.svg">  dirkscgm@gmail.com</p>
-
 ![Twitter Follow](https://img.shields.io/twitter/follow/steynberg_dirk?logo=Twitter&style=for-the-badge)
 ![Gmail](http://img.shields.io/static/v1?label=Mail&logo=Gmail&message=dirkscgm@gmail.com&style=for-the-badge)
 
