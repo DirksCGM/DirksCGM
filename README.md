@@ -39,6 +39,8 @@ I am now an avid Data Specialist with 4 to 5 years of professional experience as
 <img alt="linux" width=50px style="margin-right:1rem" src="https://simpleicons.org/icons/linux.svg">
 
 <img alt="powerbi" width=50px style="margin-right:1rem" src="https://simpleicons.org/icons/powerbi.svg">
+
+<img alt="powerbi" width=50px style="margin-right:1rem" src="https://simpleicons.org/icons/docker.svg">
 </p>
 
 <br/>
@@ -52,6 +54,6 @@ I am now an avid Data Specialist with 4 to 5 years of professional experience as
 
 ## 🔭 My Current Work
 
-<p><img alt="perceptech_data" width=20px style="margin-right:1rem" src="https://i2.wp.com/perceptechdata.com/wp-content/uploads/2020/03/cropped-Icon.png?w=250&ssl=1"> Perceptech Data - <a href="perceptechdata.com">Visit the site!</a></p>
-<p><img alt="software_foundation" width=20px style="margin-right:1rem" src="https://i2.wp.com/perceptechdata.com/wp-content/uploads/2020/05/PDSF.png?resize=300%2C300&ssl=1"> PD Software Foundation - <a href="https://perceptechdata.com/perceptech-data-software-foundation/">Find out more...</a></p>
+<p><img alt="perceptech_data" width=20px style="margin-right:1rem" src="https://i2.wp.com/perceptechdata.com/wp-content/uploads/2020/03/cropped-Icon.png?w=250&ssl=1"> Perceptech Data</p>
+<p><img alt="software_foundation" width=20px style="margin-right:1rem" src="https://i2.wp.com/perceptechdata.com/wp-content/uploads/2020/05/PDSF.png?resize=300%2C300&ssl=1"> PD Software Foundation </p>
 
