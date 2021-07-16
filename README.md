@@ -1,5 +1,3 @@
-![](static/1618064093304.jpg)
-
 #### DirkSCGM
 
 Data Engineer & Developer
