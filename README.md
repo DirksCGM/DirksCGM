@@ -1,59 +1,202 @@
-### Hi there I am Dirk Steynberg 👋
-(AKA DirkSCGM)
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>DirkSCGM</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
+</head>
+<body>
+<div class="container">
 
-**Data Specialist and Entrepreneurship & Innovation NQF 8 BSc with Prof Cert. in Data Analytics and Engineering**
+    <div class="card-panel grey lighten-5 z-depth-1">
+        <div class="row valign-wrapper">
+            <div class="col s2">
+                <img src="static/1618064093304.jpg" alt="" class="circle responsive-img">
+            </div>
+            <div class="col s10 black-text">
+                <h4>DirkSCGM</h4>
+                <p>Data Engineer & Developer</p>
+                <small>
+                    Avid Data Engineer and Technology/IoT enthusiast with +5 years of experience as a Data
+                    Consultant and Data Engineer in both leading South African FinTech companies and Innovation
+                    start-ups. I also have several professional qualifications in my field as well as Statistics,
+                    Business and Sciences.
+                </small>
+            </div>
+        </div>
+    </div>
 
-<br/>
+    <div class="row">
+        <div class="col s4 green lighten-5" style="padding: 1rem;">
+            <b>Expertise</b>
+            <hr>
+            <p><i class="material-icons red-text">build</i> : Data Engineering</p>
+            <p><i class="material-icons blue-text">cloud_queue</i> : Cloud Computing</p>
+            <p><i class="material-icons green-text">code</i> : Data & Python Development</p>
+            <p><i class="material-icons purple-text">data_usage</i> : SQL & NoSQL</p>
+            <b>Education</b>
+            <hr>
+            <b><small>Int. University of Applied Sciences - Ongoing</small></b><br>
+            <small><i>BSc Computer Science</i></small><br>
+            <b><small>ADL - Ongoing</small></b><br>
+            <small><i>UK Level 4 Certificate in Management</i></small><br>
+            <small><i>UK Level 4 Certificate in Entrepreneurship</i></small><br>
+            <small><i>UK Level 4 Certificate in Statistics</i></small><br>
+            <small><i>UK Level 4 Certificate in Physics</i></small><br>
+            <b><small>Wesleyan University/Coursera - 2019</small></b><br>
+            <small>Specialization in Data Analysis & Interpretation</small><br>
+            <b><small>University of Adelaide/Edx - 2019</small></b><br>
+            <small>Big Data Micromasters</small></br>
+            <br>
+            <b>Codebase & Solutions</b>
+            <hr>
+            <div class="row center-align">
+                <div class="col s3">
+                    <object type="image/svg+xml" data="static/apachespark.svg"></object>
+                    <small>Spark/PySpark</small>
+                </div>
+                <div class="col s3">
+                    <object type="image/svg+xml" data="static/python.svg"></object>
+                    <small>Python</small>
+                </div>
+                <div class="col s3">
+                    <object type="image/svg+xml" data="static/amazonaws.svg"></object>
+                    <small>AWS</small>
+                </div>
+                <div class="col s3">
+                    <object type="image/svg+xml" data="static/java.svg"></object>
+                    <small>Java</small>
+                </div>
+            </div>
+            <b>Skills & Endorsements</b>
+            <hr>
+            <div class="chip">Data Engineering</div>
+            <div class="chip">Data Analysis</div>
+            <div class="chip">Business Development</div>
+            <div class="chip">Big Data</div>
+            <div class="chip">Cloud Computing</div>
+            <div class="chip">Extract, Transform, Load (ETL)</div>
+            <div class="chip">Continuous Integration</div>
+            <div class="chip">Data Architecture</div>
+            <div class="chip">Agile Methodologies</div>
+            <div class="chip">Entrepreneurship</div>
+            <div class="chip">Python</div>
+            <div class="chip">AWS</div>
+            <div class="chip">PySpark</div>
+            <div class="chip">SQL</div>
+            <div class="chip">Tableau</div>
+            <div class="chip">Terraform</div>
+            <div class="chip">Java</div>
+            <div class="chip">C#</div>
+            <div class="chip">HTML</div>
+            <div class="chip">CSS</div>
+            <div class="chip">JS</div>
+            <div class="chip">Flask</div>
+            <div class="chip">Apache Spark</div>
+        </div>
+        <div class="col s8">
+            <div class="green white-text" style="padding: 1rem;">
+                <b>Experience</b>
+            </div>
+            <div class="card" style="padding: 1rem">
+                <span class="badge grey-text">Oct 2020 - Present</span>
+                <b>Data Engineer</b>
+                <p>Ringier South Africa - Full-time</p>
+            </div>
+            <div class="card" style="padding: 1rem">
+                <span class="badge grey-text">Oct 2019 - Oct 2020</span>
+                <b>Data Guru/Specialist</b>
+                <p>Howler - Full-time</p>
+                <small>
+                    Headed the architecture and development of a modern data analytics platform which included
+                    centralized data warehousing and data lake solutions, automation and ETL pipelines using SQL, Spark
+                    and AWS from multiple data points.
+                    Developed product, fraud and user behaviour dashboards and reports for key stakeholders in the
+                    business using Python, SQL, Tableau and Metabase.
+                </small>
+            </div>
+            <div class="card" style="padding: 1rem">
+                <span class="badge grey-text">2015 - 2020</span>
+                <b>Founder/Data Specialist</b>
+                <p>Perceptech - Part-time</p>
+                <small>
+                    Founded Perceptech Data.
+                    Developed solutions in Data Analysis and Data Engineering for online clients based all over the
+                    world.
+                    Solutions would include building Opensource Reporting Suites for companies in the financial and
+                    renewable energies sector as well as start-ups.
+                    Developed web-applications and python applications and script for companies seeking Python oriented
+                    solutions.
+                </small>
+            </div>
+            <div class="card" style="padding: 1rem">
+                <span class="badge grey-text">Oct 2019 - Oct 2020</span>
+                <b>Data Engineer/Developer</b>
+                <p>Ovations Technologies - Full-time</p>
+                <small>
+                    Consulted with key clients such as Momentum and Multiply to develop and implement modern data
+                    warehousing and ETL solutions, as well as refactor existing products and migrate them to newer tech
+                    stacks and technologies.
+                    Worked in-house on POCs using cloud vendors such as AWS and Azure to produce innovative data
+                    products for the financial sector.
+                </small>
+            </div>
 
-## 💬 Bio
+            <div class="blue white-text" style="padding: 1rem;">
+                <b>Projects</b>
+            </div>
+            <div class="row">
+                <div class="col s12 m6">
+                    <div class="card" style="min-height: 18rem !important;">
+                        <div class="card-content">
+                            <span class="card-title">Semita-IO</span>
+                            <p>An intelligent attendance & registration web application. Built using Python, Flask with
+                                Materialize CSS.</p>
+                        </div>
+                        <div class="card-action">
+                            <a target="_blank" href="https://github.com/DirksCGM/Semita-IO">Repo</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col s12 m6">
+                    <div class="card" style="min-height: 18rem !important;">
+                        <div class="card-content">
+                            <span class="badge grey-text">Depreciated</span>
+                            <span class="card-title">DBtoS3</span>
+                            <p>A database to AWS S3 loader & replication tool built using Python. Specifically designed
+                                for AWS and PostgreSql and MySQL.</p>
+                        </div>
+                        <div class="card-action">
+                            <a target="_blank" href="https://github.com/DirksCGM/DBtoS3">Repo</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col s12 m6">
+                    <div class="card" style="min-height: 18rem !important;">
+                        <div class="card-content">
+                            <span class="badge grey-text">WIP</span>
+                            <span class="card-title">Anapy</span>
+                            <p>ANApy is a universal data manipulation tool for handling all major forms of data on the
+                                fly.</p>
+                        </div>
+                        <div class="card-action">
+                            <a target="_blank" href="https://github.com/DirksCGM/anapy">Repo</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col s12 m6">
+                    <div class="card" style="min-height: 18rem !important;">
+                        <div class="card-content">
+                            <span class="badge grey-text">More to come...</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
 
-I grew up in the deep rural Drakensberg Mountains of South Africa. When I was a child I found an old PC discarded and struck by lightning and decided to repair it myself, I always wanted my own computer and it was a fine opportunity. That was the first time I got into technology and programming. I remember writing Basic and Python code growing up, always pottering with the endless fascination of computers, computing and gaming. In my school years, I would find every opportunity to tinker with machines and computers.
-
-This fascination led me into an insatiable desire to do and experience everything there was to understand about technology. I decided to start my own freelance company and take on odd jobs from clients all over the world who needed projects done. Projects that ranged from front-end, back-end, software development, and even computer-generated multimedia. I soon took on more prominent projects that granted me the financial freedom to learn more and do more and explore the world and slowly found my niche in the great world of the information age.
-
-I am now an avid Data Specialist with 4 to 5 years of professional experience as a Data Engineer, Data Analyst and Python Developer. Working my way to a degree in Entrepreneurship & Innovation and several ProfCerts and a GradCert under my name. My appetite for knowledge has led me to the greater world of technology and science. There is certainly more to learn, but my ambitions grow ever bigger as I endlessly endeavour to understand and do more. 
-
-<br/>
-
-## ⚡ Tech Stack
-*Python and Open-source is my go-to but I have an affinity for all Cloud Native Solutions.*
-<p>
-<img alt="python3" width=50px style="margin-right:1rem" src="https://simpleicons.org/icons/python.svg">
-
-<img alt="apache" width=50px style="margin-right:1rem" src="https://simpleicons.org/icons/apache.svg">
-
-<img alt="apapche spark" width=50px style="margin-right:1rem" src="https://simpleicons.org/icons/apachespark.svg">
-
-<img alt="scala" width=50px style="margin-right:1rem" src="https://simpleicons.org/icons/scala.svg">
-
-<img alt="postgresql" width=50px style="margin-right:1rem" src="https://simpleicons.org/icons/postgresql.svg">
-
-<img alt="mysql" width=50px style="margin-right:1rem" src="https://simpleicons.org/icons/mysql.svg">
-
-<img alt="flask" width=50px style="margin-right:1rem" src="https://simpleicons.org/icons/flask.svg">
-
-<img alt="aws" width=50px style="margin-right:1rem" src="https://simpleicons.org/icons/amazonaws.svg">
-
-<img alt="tableau" width=50px style="margin-right:1rem" src="https://simpleicons.org/icons/tableau.svg">
-
-<img alt="linux" width=50px style="margin-right:1rem" src="https://simpleicons.org/icons/linux.svg">
-
-<img alt="powerbi" width=50px style="margin-right:1rem" src="https://simpleicons.org/icons/powerbi.svg">
-
-<img alt="powerbi" width=50px style="margin-right:1rem" src="https://simpleicons.org/icons/docker.svg">
-</p>
-
-<br/>
-
-## 📫 How to reach me
-
-![Twitter Follow](https://img.shields.io/twitter/follow/steynberg_dirk?logo=Twitter&style=for-the-badge)
-![Gmail](http://img.shields.io/static/v1?label=Mail&logo=Gmail&message=dirkscgm@gmail.com&style=for-the-badge)
-
-<br/>
-
-## 🔭 My Current Work
-
-<p><img alt="perceptech_data" width=20px style="margin-right:1rem" src="https://i2.wp.com/perceptechdata.com/wp-content/uploads/2020/03/cropped-Icon.png?w=250&ssl=1"> Perceptech Data</p>
-<p><img alt="software_foundation" width=20px style="margin-right:1rem" src="https://i2.wp.com/perceptechdata.com/wp-content/uploads/2020/05/PDSF.png?resize=300%2C300&ssl=1"> PD Software Foundation </p>
-
+        </div>
+    </div>
+</div>
+</body>
+</html>
